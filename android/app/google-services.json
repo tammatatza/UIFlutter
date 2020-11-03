@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "375757175873",
+    "firebase_url": "https://locker-3de78.firebaseio.com",
+    "project_id": "locker-3de78",
+    "storage_bucket": "locker-3de78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375757175873:android:67b933286cfceb231fdac0",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375757175873-gv9pq62qg683u7v5uta17foa2niup733.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzFnMV5RV2-97tnAsHIOpnfbhmhvI_C60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375757175873-gv9pq62qg683u7v5uta17foa2niup733.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
